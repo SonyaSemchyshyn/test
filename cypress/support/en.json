@@ -1,0 +1,16 @@
+{
+    "authorizationDataRegUser": {
+        "email": "ssls.automation+666@gmail.com",
+        "password": "123456"
+    },
+
+    "authorizationDataInCorrectUser": {
+        "email": "test@@test.com",
+        "password": "!!! !!!"
+    },
+
+    "authorizationDataUnregUser": {
+        "email": "s.automation@gmail.com",
+        "password": "000000"
+    }
+}

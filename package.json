@@ -1,0 +1,17 @@
+{
+  "name": "homework-for-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run --headed --browser chrome",
+    "headless-mode-chrome": "cypress run --headless --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.2.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
